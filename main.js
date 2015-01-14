@@ -27,24 +27,23 @@ var math = high - low;
 40
 
 
-math = high - "5";
-// Q: What is `math` set to?
--5
-
-
 // Create a variable to calculate my age
 // The answer should read "Tim is 31 years old"
-var born = 1983;
-var today = 2015;
-2015-1983
+var born='1983'
+undefined
+var today='2015'
+undefined
+today-born
 32
 "Tim is 32 years old"
 
 
 // Store some information following in variables.
-var yourname;
-var myname;
-
-var statement = yourname + " is taking a class at The Iron Yard, and my instructor is " + myname;
+var yourname='John'
+undefined
+var myname='Tim'
+undefined
+var statement=yourname + ' is taking a class at the IronYard, and his instructor is '+myname
+undefined
 yourname + ' is taking a class at the IronYard, and his instructor is '+myname
 "John is taking a class at the IronYard, and his instructor is Tim"
