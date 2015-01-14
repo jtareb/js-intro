@@ -46,3 +46,5 @@ var yourname;
 var myname;
 
 var statement = yourname + " is taking a class at The Iron Yard, and my instructor is " + myname;
+yourname + ' is taking a class at the IronYard, and his instructor is '+myname
+"John is taking a class at the IronYard, and his instructor is Tim"
